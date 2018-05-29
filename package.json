@@ -1,0 +1,14 @@
+{
+  "name": "4GCryptbot",
+  "version": "0.1.0",
+  "description": "4 Grain Crypto Bot",
+  "main": "index.js",
+  "repository": "git@github.com:deusd/4GCryptbot.git",
+  "author": "Deus Duke <deusduke@gmail.com>",
+  "license": "GNU",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^4.12.0",
+    "eslint-plugin-promise": "^3.6.0"
+  }
+}
